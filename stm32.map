@@ -1,0 +1,1433 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (exit)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (__libc_init_array)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (memset)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+                              built-in.o (puts)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+                              built-in.o (errno)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-strlen.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o) (strlen)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o) (__sinit)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o) (_free_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o) (__sfvwrite_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fwalk.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o) (_fwalk)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o) (_malloc_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memchr.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o) (memchr)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memcpy.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o) (memcpy)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memmove.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o) (memmove)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mlock.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o) (__malloc_lock)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o) (_realloc_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-sbrkr.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o) (_sbrk_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o) (__sread)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-writer.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o) (_write_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-wsetup.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o) (__swsetup_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o) (__register_exitproc)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-closer.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o) (_close_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o) (_fclose_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o) (__sflush_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-lseekr.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o) (_lseek_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-readr.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o) (_read_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fstatr.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o) (_fstat_r)
+/home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-isattyr.o)
+                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o) (_isatty_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crti.o
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crti.o
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crti.o
+ .data          0x00000000        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+ .text          0x00000000       0x74 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .text          0x00000000       0x14 built-in.o
+ .text.usart_send_string
+                0x00000000       0x34 built-in.o
+ .text.initialise_monitor_handles
+                0x00000000        0xc built-in.o
+ .text._getpid  0x00000000       0x10 built-in.o
+ .text._kill    0x00000000       0x24 built-in.o
+ .text._exit    0x00000000       0x14 built-in.o
+ .text._open    0x00000000       0x1c built-in.o
+ .text._wait    0x00000000       0x20 built-in.o
+ .text._unlink  0x00000000       0x20 built-in.o
+ .text._times   0x00000000       0x18 built-in.o
+ .text._stat    0x00000000       0x20 built-in.o
+ .text._link    0x00000000       0x24 built-in.o
+ .text._fork    0x00000000       0x1c built-in.o
+ .text._execve  0x00000000       0x24 built-in.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xf8 built-in.o
+ .text.GPIO_DeInit
+                0x00000000      0x120 built-in.o
+ .text.GPIO_StructInit
+                0x00000000       0x34 built-in.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x44 built-in.o
+ .text.GPIO_ReadInputDataBit
+                0x00000000       0x34 built-in.o
+ .text.GPIO_ReadInputData
+                0x00000000       0x18 built-in.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000       0x34 built-in.o
+ .text.GPIO_ReadOutputData
+                0x00000000       0x18 built-in.o
+ .text.GPIO_SetBits
+                0x00000000       0x1c built-in.o
+ .text.GPIO_ResetBits
+                0x00000000       0x1c built-in.o
+ .text.GPIO_WriteBit
+                0x00000000       0x30 built-in.o
+ .text.GPIO_Write
+                0x00000000       0x1c built-in.o
+ .text.GPIO_ToggleBits
+                0x00000000       0x24 built-in.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x24 built-in.o
+ .text.NVIC_Init
+                0x00000000       0xc0 built-in.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x2c built-in.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x40 built-in.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x38 built-in.o
+ .text.RCC_DeInit
+                0x00000000       0x50 built-in.o
+ .text.RCC_HSEConfig
+                0x00000000       0x24 built-in.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x50 built-in.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x3c built-in.o
+ .text.RCC_HSICmd
+                0x00000000       0x20 built-in.o
+ .text.RCC_LSEConfig
+                0x00000000       0x40 built-in.o
+ .text.RCC_LSICmd
+                0x00000000       0x20 built-in.o
+ .text.RCC_PLLConfig
+                0x00000000       0x3c built-in.o
+ .text.RCC_PLLCmd
+                0x00000000       0x20 built-in.o
+ .text.RCC_PLLI2SConfig
+                0x00000000       0x28 built-in.o
+ .text.RCC_PLLI2SCmd
+                0x00000000       0x20 built-in.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x20 built-in.o
+ .text.RCC_MCO1Config
+                0x00000000       0x3c built-in.o
+ .text.RCC_MCO2Config
+                0x00000000       0x3c built-in.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x38 built-in.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x1c built-in.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x38 built-in.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x38 built-in.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x38 built-in.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x5c built-in.o
+ .text.RCC_RTCCLKCmd
+                0x00000000       0x20 built-in.o
+ .text.RCC_BackupResetCmd
+                0x00000000       0x20 built-in.o
+ .text.RCC_I2SCLKConfig
+                0x00000000       0x1c built-in.o
+ .text.RCC_AHB2PeriphClockCmd
+                0x00000000       0x3c built-in.o
+ .text.RCC_AHB3PeriphClockCmd
+                0x00000000       0x3c built-in.o
+ .text.RCC_APB1PeriphClockCmd
+                0x00000000       0x3c built-in.o
+ .text.RCC_AHB1PeriphResetCmd
+                0x00000000       0x3c built-in.o
+ .text.RCC_AHB2PeriphResetCmd
+                0x00000000       0x3c built-in.o
+ .text.RCC_AHB3PeriphResetCmd
+                0x00000000       0x3c built-in.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x3c built-in.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x3c built-in.o
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x00000000       0x3c built-in.o
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x00000000       0x3c built-in.o
+ .text.RCC_AHB3PeriphClockLPModeCmd
+                0x00000000       0x3c built-in.o
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x00000000       0x3c built-in.o
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000       0x3c built-in.o
+ .text.RCC_ITConfig
+                0x00000000       0x4c built-in.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x74 built-in.o
+ .text.RCC_ClearFlag
+                0x00000000       0x1c built-in.o
+ .text.RCC_GetITStatus
+                0x00000000       0x34 built-in.o
+ .text.RCC_ClearITPendingBit
+                0x00000000       0x20 built-in.o
+ .text.USART_DeInit
+                0x00000000       0xd4 built-in.o
+ .text.USART_StructInit
+                0x00000000       0x38 built-in.o
+ .text.USART_ClockInit
+                0x00000000       0x54 built-in.o
+ .text.USART_ClockStructInit
+                0x00000000       0x2c built-in.o
+ .text.USART_SetPrescaler
+                0x00000000       0x38 built-in.o
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x44 built-in.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x40 built-in.o
+ .text.USART_SetAddress
+                0x00000000       0x38 built-in.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x40 built-in.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x38 built-in.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x38 built-in.o
+ .text.USART_LINCmd
+                0x00000000       0x40 built-in.o
+ .text.USART_SendBreak
+                0x00000000       0x24 built-in.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x40 built-in.o
+ .text.USART_SetGuardTime
+                0x00000000       0x3c built-in.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x40 built-in.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x40 built-in.o
+ .text.USART_IrDAConfig
+                0x00000000       0x38 built-in.o
+ .text.USART_IrDACmd
+                0x00000000       0x40 built-in.o
+ .text.USART_DMACmd
+                0x00000000       0x48 built-in.o
+ .text.USART_ITConfig
+                0x00000000       0x90 built-in.o
+ .text.USART_ClearFlag
+                0x00000000       0x20 built-in.o
+ .text.USART_GetITStatus
+                0x00000000       0xb4 built-in.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x38 built-in.o
+ .data          0x00000000        0x0 built-in.o
+ .data.environ  0x00000000        0x4 built-in.o
+ .data.SystemCoreClock
+                0x00000000        0x4 built-in.o
+ .data.AHBPrescTable
+                0x00000000       0x10 built-in.o
+ .bss           0x00000000        0x0 built-in.o
+ .bss.__env     0x00000000        0x4 built-in.o
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x88 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xd8 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x00000000        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x00000000       0x30 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .text.__sfp    0x00000000       0x88 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .text._cleanup
+                0x00000000       0x14 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x00000000        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x00000000        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x14 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x14 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fwalk.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fwalk.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fwalk.o)
+ .text._fwalk   0x00000000       0x4c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fwalk.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-writer.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-writer.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-writer.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-wsetup.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-wsetup.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-wsetup.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-closer.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-closer.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-closer.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+ .text.fclose   0x00000000       0x10 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+ .text.fflush   0x00000000       0x24 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-lseekr.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-lseekr.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-lseekr.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-readr.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-readr.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-readr.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fstatr.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fstatr.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fstatr.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-isattyr.o)
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-isattyr.o)
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-isattyr.o)
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtend.o
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtend.o
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtend.o
+ .eh_frame      0x00000000        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtend.o
+ .jcr           0x00000000        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtend.o
+ .text          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtn.o
+ .data          0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtn.o
+ .bss           0x00000000        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00020000         xrw
+CCMRAM           0x10000000         0x00010000         rw
+FLASH            0x08000000         0x00080000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crti.o
+LOAD /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+LOAD /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+LOAD built-in.o
+START GROUP
+LOAD /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/libgcc.a
+LOAD /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a
+END GROUP
+LOAD /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtend.o
+LOAD /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtn.o
+                0x20020000                _estack = 0x20020000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 built-in.o
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x080001c0     0x2548
+                0x080001c0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080001c0       0x5c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+ *fill*         0x0800021c       0x24 
+ .text          0x08000240       0xdc /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-strlen.o)
+                0x08000240                strlen
+ *fill*         0x0800031c        0x4 
+ .text          0x08000320       0xa0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memchr.o)
+                0x08000320                memchr
+ .text          0x080003c0      0x134 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memcpy.o)
+                0x080003c0                memcpy
+ *(.text*)
+ .text.usart_gpio_cfg
+                0x080004f4       0x58 built-in.o
+                0x080004f4                usart_gpio_cfg
+ .text.usart_cfg
+                0x0800054c       0x54 built-in.o
+                0x0800054c                usart_cfg
+ .text.usart_init
+                0x080005a0       0x14 built-in.o
+                0x080005a0                usart_init
+ .text.usart_send_char
+                0x080005b4       0x34 built-in.o
+                0x080005b4                usart_send_char
+ .text.usart_get_char
+                0x080005e8       0x34 built-in.o
+                0x080005e8                usart_get_char
+ .text._read    0x0800061c       0x38 built-in.o
+                0x0800061c                _read
+ .text._write   0x08000654       0x4c built-in.o
+                0x08000654                _write
+ .text._sbrk    0x080006a0       0x5c built-in.o
+                0x080006a0                _sbrk
+ .text._close   0x080006fc       0x18 built-in.o
+                0x080006fc                _close
+ .text._fstat   0x08000714       0x20 built-in.o
+                0x08000714                _fstat
+ .text._isatty  0x08000734       0x14 built-in.o
+                0x08000734                _isatty
+ .text._lseek   0x08000748       0x18 built-in.o
+                0x08000748                _lseek
+ .text.main     0x08000760       0x14 built-in.o
+                0x08000760                main
+ .text.SystemInit
+                0x08000774       0x5c built-in.o
+                0x08000774                SystemInit
+ .text.SetSysClock
+                0x080007d0       0xf4 built-in.o
+ .text.Reset_Handler
+                0x080008c4       0x44 built-in.o
+                0x080008c4                Reset_Handler
+ .text.Default_Handler
+                0x08000908        0x2 built-in.o
+                0x08000908                RTC_Alarm_IRQHandler
+                0x08000908                HASH_RNG_IRQHandler
+                0x08000908                EXTI2_IRQHandler
+                0x08000908                TIM8_CC_IRQHandler
+                0x08000908                DebugMon_Handler
+                0x08000908                TIM1_CC_IRQHandler
+                0x08000908                DMA2_Stream5_IRQHandler
+                0x08000908                HardFault_Handler
+                0x08000908                DMA1_Stream5_IRQHandler
+                0x08000908                SysTick_Handler
+                0x08000908                PVD_IRQHandler
+                0x08000908                SDIO_IRQHandler
+                0x08000908                TAMP_STAMP_IRQHandler
+                0x08000908                PendSV_Handler
+                0x08000908                NMI_Handler
+                0x08000908                CAN2_RX1_IRQHandler
+                0x08000908                EXTI3_IRQHandler
+                0x08000908                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08000908                TIM1_UP_TIM10_IRQHandler
+                0x08000908                TIM8_UP_TIM13_IRQHandler
+                0x08000908                I2C3_ER_IRQHandler
+                0x08000908                EXTI0_IRQHandler
+                0x08000908                I2C2_EV_IRQHandler
+                0x08000908                DMA1_Stream2_IRQHandler
+                0x08000908                CAN1_RX0_IRQHandler
+                0x08000908                FPU_IRQHandler
+                0x08000908                OTG_HS_WKUP_IRQHandler
+                0x08000908                UsageFault_Handler
+                0x08000908                CAN2_SCE_IRQHandler
+                0x08000908                DMA2_Stream2_IRQHandler
+                0x08000908                SPI1_IRQHandler
+                0x08000908                TIM6_DAC_IRQHandler
+                0x08000908                TIM1_BRK_TIM9_IRQHandler
+                0x08000908                DCMI_IRQHandler
+                0x08000908                CAN2_RX0_IRQHandler
+                0x08000908                DMA2_Stream3_IRQHandler
+                0x08000908                USART6_IRQHandler
+                0x08000908                USART3_IRQHandler
+                0x08000908                CRYP_IRQHandler
+                0x08000908                CAN1_RX1_IRQHandler
+                0x08000908                UART5_IRQHandler
+                0x08000908                DMA2_Stream0_IRQHandler
+                0x08000908                TIM4_IRQHandler
+                0x08000908                I2C1_EV_IRQHandler
+                0x08000908                DMA1_Stream6_IRQHandler
+                0x08000908                DMA1_Stream1_IRQHandler
+                0x08000908                UART4_IRQHandler
+                0x08000908                TIM3_IRQHandler
+                0x08000908                RCC_IRQHandler
+                0x08000908                TIM8_BRK_TIM12_IRQHandler
+                0x08000908                Default_Handler
+                0x08000908                EXTI15_10_IRQHandler
+                0x08000908                ADC_IRQHandler
+                0x08000908                DMA1_Stream7_IRQHandler
+                0x08000908                TIM7_IRQHandler
+                0x08000908                CAN2_TX_IRQHandler
+                0x08000908                TIM5_IRQHandler
+                0x08000908                DMA2_Stream7_IRQHandler
+                0x08000908                I2C3_EV_IRQHandler
+                0x08000908                EXTI9_5_IRQHandler
+                0x08000908                RTC_WKUP_IRQHandler
+                0x08000908                ETH_WKUP_IRQHandler
+                0x08000908                SPI2_IRQHandler
+                0x08000908                OTG_HS_EP1_IN_IRQHandler
+                0x08000908                MemManage_Handler
+                0x08000908                DMA1_Stream0_IRQHandler
+                0x08000908                CAN1_TX_IRQHandler
+                0x08000908                SVC_Handler
+                0x08000908                EXTI4_IRQHandler
+                0x08000908                FSMC_IRQHandler
+                0x08000908                ETH_IRQHandler
+                0x08000908                OTG_HS_EP1_OUT_IRQHandler
+                0x08000908                WWDG_IRQHandler
+                0x08000908                TIM2_IRQHandler
+                0x08000908                OTG_FS_WKUP_IRQHandler
+                0x08000908                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08000908                OTG_HS_IRQHandler
+                0x08000908                EXTI1_IRQHandler
+                0x08000908                USART2_IRQHandler
+                0x08000908                I2C2_ER_IRQHandler
+                0x08000908                DMA2_Stream1_IRQHandler
+                0x08000908                CAN1_SCE_IRQHandler
+                0x08000908                FLASH_IRQHandler
+                0x08000908                DMA2_Stream4_IRQHandler
+                0x08000908                BusFault_Handler
+                0x08000908                USART1_IRQHandler
+                0x08000908                OTG_FS_IRQHandler
+                0x08000908                SPI3_IRQHandler
+                0x08000908                DMA1_Stream4_IRQHandler
+                0x08000908                I2C1_ER_IRQHandler
+                0x08000908                DMA2_Stream6_IRQHandler
+                0x08000908                DMA1_Stream3_IRQHandler
+ *fill*         0x0800090a        0x2 
+ .text.GPIO_Init
+                0x0800090c      0x11c built-in.o
+                0x0800090c                GPIO_Init
+ .text.GPIO_PinAFConfig
+                0x08000a28       0x90 built-in.o
+                0x08000a28                GPIO_PinAFConfig
+ .text.RCC_GetClocksFreq
+                0x08000ab8      0x154 built-in.o
+                0x08000ab8                RCC_GetClocksFreq
+ .text.RCC_AHB1PeriphClockCmd
+                0x08000c0c       0x3c built-in.o
+                0x08000c0c                RCC_AHB1PeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x08000c48       0x3c built-in.o
+                0x08000c48                RCC_APB2PeriphClockCmd
+ .text.USART_Init
+                0x08000c84      0x174 built-in.o
+                0x08000c84                USART_Init
+ .text.USART_Cmd
+                0x08000df8       0x40 built-in.o
+                0x08000df8                USART_Cmd
+ .text.USART_SendData
+                0x08000e38       0x24 built-in.o
+                0x08000e38                USART_SendData
+ .text.USART_ReceiveData
+                0x08000e5c       0x20 built-in.o
+                0x08000e5c                USART_ReceiveData
+ .text.USART_GetFlagStatus
+                0x08000e7c       0x38 built-in.o
+                0x08000e7c                USART_GetFlagStatus
+ .text.memset   0x08000eb4       0x9c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+                0x08000eb4                memset
+ .text._puts_r  0x08000f50       0x68 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+                0x08000f50                _puts_r
+ .text.puts     0x08000fb8       0x10 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+                0x08000fb8                puts
+ .text.startup.register_fini
+                0x08000fc8       0x14 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08000fdc        0xc /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+                0x08000fdc                atexit
+ .text._cleanup_r
+                0x08000fe8        0xc /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+                0x08000fe8                _cleanup_r
+ .text.__sinit.part.1
+                0x08000ff4       0xf0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .text.__sinit  0x080010e4        0xc /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+                0x080010e4                __sinit
+ .text.__sfp_lock_acquire
+                0x080010f0        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+                0x080010f0                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x080010f4        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+                0x080010f4                __sfp_lock_release
+ .text.__libc_fini_array
+                0x080010f8       0x28 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+                0x080010f8                __libc_fini_array
+ .text._malloc_trim_r
+                0x08001120       0x9c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+                0x08001120                _malloc_trim_r
+ .text._free_r  0x080011bc      0x1d0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+                0x080011bc                _free_r
+ .text.__sfvwrite_r
+                0x0800138c      0x304 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+                0x0800138c                __sfvwrite_r
+ .text._fwalk_reent
+                0x08001690       0x54 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fwalk.o)
+                0x08001690                _fwalk_reent
+ .text._malloc_r
+                0x080016e4      0x570 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                0x080016e4                _malloc_r
+ .text.memmove  0x08001c54       0xc8 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memmove.o)
+                0x08001c54                memmove
+ .text.__malloc_lock
+                0x08001d1c        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mlock.o)
+                0x08001d1c                __malloc_lock
+ .text.__malloc_unlock
+                0x08001d20        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mlock.o)
+                0x08001d20                __malloc_unlock
+ .text._realloc_r
+                0x08001d24      0x3e0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+                0x08001d24                _realloc_r
+ .text._sbrk_r  0x08002104       0x24 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-sbrkr.o)
+                0x08002104                _sbrk_r
+ .text.__sread  0x08002128       0x24 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+                0x08002128                __sread
+ .text.__swrite
+                0x0800214c       0x3c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+                0x0800214c                __swrite
+ .text.__sseek  0x08002188       0x20 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+                0x08002188                __sseek
+ .text.__sclose
+                0x080021a8        0x8 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+                0x080021a8                __sclose
+ .text._write_r
+                0x080021b0       0x2c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-writer.o)
+                0x080021b0                _write_r
+ .text.__swsetup_r
+                0x080021dc       0xc8 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-wsetup.o)
+                0x080021dc                __swsetup_r
+ .text.__register_exitproc
+                0x080022a4       0xa4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+                0x080022a4                __register_exitproc
+ .text._close_r
+                0x08002348       0x24 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-closer.o)
+                0x08002348                _close_r
+ .text._fclose_r
+                0x0800236c       0x84 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+                0x0800236c                _fclose_r
+ .text.__sflush_r
+                0x080023f0      0x148 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+                0x080023f0                __sflush_r
+ .text._fflush_r
+                0x08002538       0x2c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+                0x08002538                _fflush_r
+ .text._lseek_r
+                0x08002564       0x2c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-lseekr.o)
+                0x08002564                _lseek_r
+ .text.__swhatbuf_r
+                0x08002590       0x60 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+                0x08002590                __swhatbuf_r
+ .text.__smakebuf_r
+                0x080025f0       0x88 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+                0x080025f0                __smakebuf_r
+ .text._read_r  0x08002678       0x2c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-readr.o)
+                0x08002678                _read_r
+ .text._fstat_r
+                0x080026a4       0x28 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fstatr.o)
+                0x080026a4                _fstat_r
+ .text._isatty_r
+                0x080026cc       0x24 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-isattyr.o)
+                0x080026cc                _isatty_r
+ *(.glue_7)
+ .glue_7        0x080026f0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080026f0        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080026f0        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+                0x080026f0                . = ALIGN (0x4)
+                0x080026f0                __testfuntbl_start = .
+ *(testfuntbl)
+                0x080026f0                __testfuntbl_end = .
+                0x080026f0                . = ALIGN (0x4)
+ *(.init)
+ .init          0x080026f0        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crti.o
+                0x080026f0                _init
+ .init          0x080026f4        0x8 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtn.o
+ *(.fini)
+ .fini          0x080026fc        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crti.o
+                0x080026fc                _fini
+ .fini          0x08002700        0x8 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtn.o
+                0x08002708                . = ALIGN (0x4)
+                0x08002708                _etext = .
+
+.vfp11_veneer   0x08002708        0x0
+ .vfp11_veneer  0x08002708        0x0 linker stubs
+
+.v4_bx          0x08002708        0x0
+ .v4_bx         0x08002708        0x0 linker stubs
+
+.iplt           0x08002708        0x0
+ .iplt          0x08002708        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+
+.rodata         0x08002708       0x14
+                0x08002708                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08002708        0xc built-in.o
+ *(.rodata*)
+ .rodata._global_impure_ptr
+                0x08002714        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+                0x08002714                _global_impure_ptr
+ .rodata.str1.4
+                0x08002718        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+                                  0x2 (size before relaxing)
+                0x0800271c                . = ALIGN (0x4)
+
+.rel.dyn        0x0800271c        0x0
+ .rel.iplt      0x0800271c        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0800271c        0x0
+                0x0800271c                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0800271c                __exidx_end = .
+
+.preinit_array  0x0800271c        0x0
+                0x0800271c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x0800271c                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0800271c        0x8
+                0x0800271c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x0800271c        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08002720        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+                0x08002724                PROVIDE (__init_array_end, .)
+
+.fini_array     0x08002724        0x4
+                0x08002724                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08002724        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+                0x08002728                PROVIDE (__fini_array_end, .)
+                0x08002728                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x84c load address 0x08002728
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.APBAHBPrescTable
+                0x20000000       0x10 built-in.o
+ .data.impure_data
+                0x20000010      0x428 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000438        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+                0x20000438                _impure_ptr
+ .data.__malloc_av_
+                0x2000043c      0x408 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                0x2000043c                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x20000844        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                0x20000844                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x20000848        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                0x20000848                __malloc_sbrk_base
+                0x2000084c                . = ALIGN (0x4)
+                0x2000084c                _edata = .
+                0x08002f74                _siccmram = LOADADDR (.ccmram)
+
+.jcr            0x2000084c        0x0 load address 0x08002f74
+ .jcr           0x2000084c        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+
+.igot.plt       0x2000084c        0x0 load address 0x08002f74
+ .igot.plt      0x2000084c        0x0 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+
+.ccmram         0x10000000        0x0 load address 0x08002f74
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _sccmram = .
+ *(.ccmram)
+ *(.ccmram*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _eccmram = .
+                0x10000000                . = ALIGN (0x4)
+
+.bss            0x2000084c       0x58
+                0x2000084c                _sbss = .
+                0x2000084c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000084c       0x1c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+ *(.bss*)
+ .bss.heap_end.5915
+                0x20000868        0x4 built-in.o
+ .bss.__malloc_max_total_mem
+                0x2000086c        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                0x2000086c                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x20000870        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                0x20000870                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x20000874        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                0x20000874                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x20000878       0x28 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                0x20000878                __malloc_current_mallinfo
+ *(COMMON)
+ COMMON         0x200008a0        0x4 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+                0x200008a0                errno
+                0x200008a4                . = ALIGN (0x4)
+                0x200008a4                _ebss = .
+                0x200008a4                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200008a4      0x604
+                0x200008a8                . = ALIGN (0x8)
+ *fill*         0x200008a4        0x4 
+                0x200008a8                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                0x20000aa8                . = (. + _Min_Heap_Size)
+ *fill*         0x200008a8      0x200 
+                0x20000ea8                . = (. + _Min_Stack_Size)
+ *fill*         0x20000aa8      0x400 
+                0x20000ea8                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x31 built-in.o
+ .ARM.attributes
+                0x0000007d       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000ab       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000d9       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+ .ARM.attributes
+                0x00000107       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000135       0x1c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000151       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000017f       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000001ad       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000001db       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000209       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000237       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x00000265       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000293       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000002c1       0x1c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x000002dd       0x1c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000002f9       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000327       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000355       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000383       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000003b1       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x000003df       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000040d       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x0000043b       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000469       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000497       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x000004c5       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x000004f3       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000521       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x0000054f       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-readr.o)
+ .ARM.attributes
+                0x0000057d       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x000005ab       0x2e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x000005d9       0x1e /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtn.o
+OUTPUT(ps2car.elf elf32-littlearm)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e built-in.o
+                                0x378 (size before relaxing)
+
+.debug_aranges  0x00000000      0x488
+ .debug_aranges
+                0x00000000      0x488 built-in.o
+
+.debug_info     0x00000000     0x33d7
+ .debug_info    0x00000000     0x33d7 built-in.o
+
+.debug_abbrev   0x00000000      0xa91
+ .debug_abbrev  0x00000000      0xa91 built-in.o
+
+.debug_line     0x00000000     0x159e
+ .debug_line    0x00000000     0x159e built-in.o
+
+.debug_frame    0x00000000     0x1b08
+ .debug_frame   0x00000000     0x12f0 built-in.o
+ .debug_frame   0x000012f0       0x34 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x00001324       0x48 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+ .debug_frame   0x0000136c       0x58 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+ .debug_frame   0x000013c4       0x50 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00001414       0x20 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00001434      0x124 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+ .debug_frame   0x00001558       0x34 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x0000158c       0x74 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+ .debug_frame   0x00001600       0x68 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x00001668       0x54 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x000016bc       0x58 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00001714       0x30 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memmove.o)
+ .debug_frame   0x00001744       0x30 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mlock.o)
+ .debug_frame   0x00001774       0x60 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x000017d4       0x2c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00001800       0x88 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+ .debug_frame   0x00001888       0x2c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-writer.o)
+ .debug_frame   0x000018b4       0x2c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-wsetup.o)
+ .debug_frame   0x000018e0       0x34 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00001914       0x2c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-closer.o)
+ .debug_frame   0x00001940       0x44 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+ .debug_frame   0x00001984       0x6c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+ .debug_frame   0x000019f0       0x2c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x00001a1c       0x68 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+ .debug_frame   0x00001a84       0x2c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-readr.o)
+ .debug_frame   0x00001ab0       0x2c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fstatr.o)
+ .debug_frame   0x00001adc       0x2c /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-isattyr.o)
+
+.debug_str      0x00000000     0x144a
+ .debug_str     0x00000000     0x144a built-in.o
+                               0x250f (size before relaxing)
+
+.debug_ranges   0x00000000      0x408
+ .debug_ranges  0x00000000      0x408 built-in.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    built-in.o
+AHBPrescTable                                     built-in.o
+BusFault_Handler                                  built-in.o
+CAN1_RX0_IRQHandler                               built-in.o
+CAN1_RX1_IRQHandler                               built-in.o
+CAN1_SCE_IRQHandler                               built-in.o
+CAN1_TX_IRQHandler                                built-in.o
+CAN2_RX0_IRQHandler                               built-in.o
+CAN2_RX1_IRQHandler                               built-in.o
+CAN2_SCE_IRQHandler                               built-in.o
+CAN2_TX_IRQHandler                                built-in.o
+CRYP_IRQHandler                                   built-in.o
+DCMI_IRQHandler                                   built-in.o
+DMA1_Stream0_IRQHandler                           built-in.o
+DMA1_Stream1_IRQHandler                           built-in.o
+DMA1_Stream2_IRQHandler                           built-in.o
+DMA1_Stream3_IRQHandler                           built-in.o
+DMA1_Stream4_IRQHandler                           built-in.o
+DMA1_Stream5_IRQHandler                           built-in.o
+DMA1_Stream6_IRQHandler                           built-in.o
+DMA1_Stream7_IRQHandler                           built-in.o
+DMA2_Stream0_IRQHandler                           built-in.o
+DMA2_Stream1_IRQHandler                           built-in.o
+DMA2_Stream2_IRQHandler                           built-in.o
+DMA2_Stream3_IRQHandler                           built-in.o
+DMA2_Stream4_IRQHandler                           built-in.o
+DMA2_Stream5_IRQHandler                           built-in.o
+DMA2_Stream6_IRQHandler                           built-in.o
+DMA2_Stream7_IRQHandler                           built-in.o
+DebugMon_Handler                                  built-in.o
+Default_Handler                                   built-in.o
+ETH_IRQHandler                                    built-in.o
+ETH_WKUP_IRQHandler                               built-in.o
+EXTI0_IRQHandler                                  built-in.o
+EXTI15_10_IRQHandler                              built-in.o
+EXTI1_IRQHandler                                  built-in.o
+EXTI2_IRQHandler                                  built-in.o
+EXTI3_IRQHandler                                  built-in.o
+EXTI4_IRQHandler                                  built-in.o
+EXTI9_5_IRQHandler                                built-in.o
+FLASH_IRQHandler                                  built-in.o
+FPU_IRQHandler                                    built-in.o
+FSMC_IRQHandler                                   built-in.o
+GPIO_DeInit                                       built-in.o
+GPIO_Init                                         built-in.o
+GPIO_PinAFConfig                                  built-in.o
+GPIO_PinLockConfig                                built-in.o
+GPIO_ReadInputData                                built-in.o
+GPIO_ReadInputDataBit                             built-in.o
+GPIO_ReadOutputData                               built-in.o
+GPIO_ReadOutputDataBit                            built-in.o
+GPIO_ResetBits                                    built-in.o
+GPIO_SetBits                                      built-in.o
+GPIO_StructInit                                   built-in.o
+GPIO_ToggleBits                                   built-in.o
+GPIO_Write                                        built-in.o
+GPIO_WriteBit                                     built-in.o
+HASH_RNG_IRQHandler                               built-in.o
+HardFault_Handler                                 built-in.o
+I2C1_ER_IRQHandler                                built-in.o
+I2C1_EV_IRQHandler                                built-in.o
+I2C2_ER_IRQHandler                                built-in.o
+I2C2_EV_IRQHandler                                built-in.o
+I2C3_ER_IRQHandler                                built-in.o
+I2C3_EV_IRQHandler                                built-in.o
+MemManage_Handler                                 built-in.o
+NMI_Handler                                       built-in.o
+NVIC_Init                                         built-in.o
+NVIC_PriorityGroupConfig                          built-in.o
+NVIC_SetVectorTable                               built-in.o
+NVIC_SystemLPConfig                               built-in.o
+OTG_FS_IRQHandler                                 built-in.o
+OTG_FS_WKUP_IRQHandler                            built-in.o
+OTG_HS_EP1_IN_IRQHandler                          built-in.o
+OTG_HS_EP1_OUT_IRQHandler                         built-in.o
+OTG_HS_IRQHandler                                 built-in.o
+OTG_HS_WKUP_IRQHandler                            built-in.o
+PVD_IRQHandler                                    built-in.o
+PendSV_Handler                                    built-in.o
+RCC_AHB1PeriphClockCmd                            built-in.o
+RCC_AHB1PeriphClockLPModeCmd                      built-in.o
+RCC_AHB1PeriphResetCmd                            built-in.o
+RCC_AHB2PeriphClockCmd                            built-in.o
+RCC_AHB2PeriphClockLPModeCmd                      built-in.o
+RCC_AHB2PeriphResetCmd                            built-in.o
+RCC_AHB3PeriphClockCmd                            built-in.o
+RCC_AHB3PeriphClockLPModeCmd                      built-in.o
+RCC_AHB3PeriphResetCmd                            built-in.o
+RCC_APB1PeriphClockCmd                            built-in.o
+RCC_APB1PeriphClockLPModeCmd                      built-in.o
+RCC_APB1PeriphResetCmd                            built-in.o
+RCC_APB2PeriphClockCmd                            built-in.o
+RCC_APB2PeriphClockLPModeCmd                      built-in.o
+RCC_APB2PeriphResetCmd                            built-in.o
+RCC_AdjustHSICalibrationValue                     built-in.o
+RCC_BackupResetCmd                                built-in.o
+RCC_ClearFlag                                     built-in.o
+RCC_ClearITPendingBit                             built-in.o
+RCC_ClockSecuritySystemCmd                        built-in.o
+RCC_DeInit                                        built-in.o
+RCC_GetClocksFreq                                 built-in.o
+RCC_GetFlagStatus                                 built-in.o
+RCC_GetITStatus                                   built-in.o
+RCC_GetSYSCLKSource                               built-in.o
+RCC_HCLKConfig                                    built-in.o
+RCC_HSEConfig                                     built-in.o
+RCC_HSICmd                                        built-in.o
+RCC_I2SCLKConfig                                  built-in.o
+RCC_IRQHandler                                    built-in.o
+RCC_ITConfig                                      built-in.o
+RCC_LSEConfig                                     built-in.o
+RCC_LSICmd                                        built-in.o
+RCC_MCO1Config                                    built-in.o
+RCC_MCO2Config                                    built-in.o
+RCC_PCLK1Config                                   built-in.o
+RCC_PCLK2Config                                   built-in.o
+RCC_PLLCmd                                        built-in.o
+RCC_PLLConfig                                     built-in.o
+RCC_PLLI2SCmd                                     built-in.o
+RCC_PLLI2SConfig                                  built-in.o
+RCC_RTCCLKCmd                                     built-in.o
+RCC_RTCCLKConfig                                  built-in.o
+RCC_SYSCLKConfig                                  built-in.o
+RCC_WaitForHSEStartUp                             built-in.o
+RTC_Alarm_IRQHandler                              built-in.o
+RTC_WKUP_IRQHandler                               built-in.o
+Reset_Handler                                     built-in.o
+SDIO_IRQHandler                                   built-in.o
+SPI1_IRQHandler                                   built-in.o
+SPI2_IRQHandler                                   built-in.o
+SPI3_IRQHandler                                   built-in.o
+SVC_Handler                                       built-in.o
+SysTick_CLKSourceConfig                           built-in.o
+SysTick_Handler                                   built-in.o
+SystemCoreClock                                   built-in.o
+SystemCoreClockUpdate                             built-in.o
+SystemInit                                        built-in.o
+TAMP_STAMP_IRQHandler                             built-in.o
+TIM1_BRK_TIM9_IRQHandler                          built-in.o
+TIM1_CC_IRQHandler                                built-in.o
+TIM1_TRG_COM_TIM11_IRQHandler                     built-in.o
+TIM1_UP_TIM10_IRQHandler                          built-in.o
+TIM2_IRQHandler                                   built-in.o
+TIM3_IRQHandler                                   built-in.o
+TIM4_IRQHandler                                   built-in.o
+TIM5_IRQHandler                                   built-in.o
+TIM6_DAC_IRQHandler                               built-in.o
+TIM7_IRQHandler                                   built-in.o
+TIM8_BRK_TIM12_IRQHandler                         built-in.o
+TIM8_CC_IRQHandler                                built-in.o
+TIM8_TRG_COM_TIM14_IRQHandler                     built-in.o
+TIM8_UP_TIM13_IRQHandler                          built-in.o
+UART4_IRQHandler                                  built-in.o
+UART5_IRQHandler                                  built-in.o
+USART1_IRQHandler                                 built-in.o
+USART2_IRQHandler                                 built-in.o
+USART3_IRQHandler                                 built-in.o
+USART6_IRQHandler                                 built-in.o
+USART_ClearFlag                                   built-in.o
+USART_ClearITPendingBit                           built-in.o
+USART_ClockInit                                   built-in.o
+USART_ClockStructInit                             built-in.o
+USART_Cmd                                         built-in.o
+USART_DMACmd                                      built-in.o
+USART_DeInit                                      built-in.o
+USART_GetFlagStatus                               built-in.o
+USART_GetITStatus                                 built-in.o
+USART_HalfDuplexCmd                               built-in.o
+USART_ITConfig                                    built-in.o
+USART_Init                                        built-in.o
+USART_IrDACmd                                     built-in.o
+USART_IrDAConfig                                  built-in.o
+USART_LINBreakDetectLengthConfig                  built-in.o
+USART_LINCmd                                      built-in.o
+USART_OneBitMethodCmd                             built-in.o
+USART_OverSampling8Cmd                            built-in.o
+USART_ReceiveData                                 built-in.o
+USART_ReceiverWakeUpCmd                           built-in.o
+USART_SendBreak                                   built-in.o
+USART_SendData                                    built-in.o
+USART_SetAddress                                  built-in.o
+USART_SetGuardTime                                built-in.o
+USART_SetPrescaler                                built-in.o
+USART_SmartCardCmd                                built-in.o
+USART_SmartCardNACKCmd                            built-in.o
+USART_StructInit                                  built-in.o
+USART_WakeUpConfig                                built-in.o
+UsageFault_Handler                                built-in.o
+WWDG_IRQHandler                                   built-in.o
+_Jv_RegisterClasses                               /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+__bss_end__                                       /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+__bss_start__                                     /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+__call_exitprocs                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+__deregister_frame_info                           /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+__dso_handle                                      /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+__env                                             built-in.o
+__fini_array_end                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+__fini_array_start                                /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+__fp_lock_all                                     /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+__fp_unlock_all                                   /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+__init_array_end                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+__init_array_start                                /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+__libc_fini                                       /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+__libc_fini_array                                 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+__libc_init_array                                 /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+__malloc_av_                                      /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+__malloc_current_mallinfo                         /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+__malloc_lock                                     /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mlock.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+__malloc_max_sbrked_mem                           /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+__malloc_max_total_mem                            /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+__malloc_sbrk_base                                /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+__malloc_top_pad                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+__malloc_trim_threshold                           /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+__malloc_unlock                                   /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mlock.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+__preinit_array_end                               /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+__preinit_array_start                             /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+__register_exitproc                               /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+__register_frame_info                             /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crtbegin.o
+__sclose                                          /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+__seofread                                        /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+__sflush_r                                        /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+__sfmoreglue                                      /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+__sfp                                             /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+__sfp_lock_acquire                                /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+__sfp_lock_release                                /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+__sfvwrite_r                                      /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+__sinit                                           /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-wsetup.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+__sinit_lock_acquire                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+__sinit_lock_release                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+__smakebuf_r                                      /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-wsetup.o)
+__sread                                           /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+__sseek                                           /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+__stack                                           /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+__swhatbuf_r                                      /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+__swrite                                          /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+__swsetup_r                                       /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-wsetup.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+_cleanup                                          /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+_cleanup_r                                        /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+_close                                            built-in.o
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-closer.o)
+_close_r                                          /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-closer.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+_ebss                                             built-in.o
+_edata                                            built-in.o
+_estack                                           built-in.o
+_execve                                           built-in.o
+_exit                                             built-in.o
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+_fclose_r                                         /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+_fflush_r                                         /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+_fini                                             /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crti.o
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+_fork                                             built-in.o
+_free_r                                           /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-wsetup.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+_fstat                                            built-in.o
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fstatr.o)
+_fstat_r                                          /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fstatr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+_fwalk                                            /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fwalk.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+_fwalk_reent                                      /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fwalk.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+_getpid                                           built-in.o
+_global_impure_ptr                                /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+_impure_ptr                                       /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-wsetup.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+_init                                             /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/crti.o
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+_isatty                                           built-in.o
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-isattyr.o)
+_isatty_r                                         /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-isattyr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+_kill                                             built-in.o
+_link                                             built-in.o
+_lseek                                            built-in.o
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-lseekr.o)
+_lseek_r                                          /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-lseekr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+_mainCRTStartup                                   /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+_malloc_r                                         /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-makebuf.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+_malloc_trim_r                                    /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+_open                                             built-in.o
+_puts_r                                           /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+_read                                             built-in.o
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-readr.o)
+_read_r                                           /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-readr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+_realloc_r                                        /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+_reclaim_reent                                    /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+_sbrk                                             built-in.o
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-sbrkr.o)
+_sbrk_r                                           /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-sbrkr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-mallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-freer.o)
+_sbss                                             built-in.o
+_sdata                                            built-in.o
+_sidata                                           built-in.o
+_start                                            /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+_stat                                             built-in.o
+_times                                            built-in.o
+_unlink                                           built-in.o
+_wait                                             built-in.o
+_write                                            built-in.o
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-writer.o)
+_write_r                                          /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-writer.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-stdio.o)
+atexit                                            /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+cleanup_glue                                      /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+end                                               built-in.o
+environ                                           built-in.o
+errno                                             /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reent.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-isattyr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fstatr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-readr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-lseekr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-closer.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-writer.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-sbrkr.o)
+                                                  built-in.o
+exit                                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+fclose                                            /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fclose.o)
+fflush                                            /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fflush.o)
+free                                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+g_pfnVectors                                      built-in.o
+hardware_init_hook                                /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+initialise_monitor_handles                        built-in.o
+main                                              built-in.o
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+malloc                                            /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+memchr                                            /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memchr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+memcpy                                            /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memcpy.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+memmove                                           /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memmove.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-reallocr.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fvwrite.o)
+memset                                            /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-findfp.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+puts                                              /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+                                                  built-in.o
+software_init_hook                                /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+strlen                                            /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-strlen.o)
+                                                  /home/book/andey/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-puts.o)
+usart_cfg                                         built-in.o
+usart_get_char                                    built-in.o
+usart_gpio_cfg                                    built-in.o
+usart_init                                        built-in.o
+usart_send_char                                   built-in.o
+usart_send_string                                 built-in.o
