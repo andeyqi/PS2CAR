@@ -7,58 +7,75 @@
 
 int main(void)
 {
-	u8 key;  
-	usart_init();
-	bsp_systick_configuration();
-	printf("hello world\n");
-	PS2_Init();			 //驱动端口初始化
-	PS2_SetInit();		 //配配置初始化,配置“红绿灯模式”，并选择是否可以修改
-	                     //开启震动模式
-	motor_io_init();
-	while(1)
-	{
-		//LED =! LED;
-		key=PS2_DataKey();
-		if(key!=0)                   //有按键按下
-    	{
-			printf("  \r\n   %d  is  light  \r\n",Data[1]);//ID
-			printf("  \r\n   %d  is  pressed  \r\n",key);
-			if(key == 11)
-			{
-				PS2_Vibration(0xFF,0x00);  //发出震动后必须有延时  delay_ms(1000);
-				delay_ms(500);
-			}
-			else if(key == 12)
-			{
-				PS2_Vibration(0x00,0xFF);  //发出震动后必须有延时  delay_ms(1000);
-				delay_ms(500);
-			}
-			else
-				 PS2_Vibration(0x00,0x00); 
-    	}
-		printf(" %5d %5d %5d %5d\r\n",PS2_AnologData(PSS_LX),PS2_AnologData(PSS_LY),
-		                              PS2_AnologData(PSS_RX),PS2_AnologData(PSS_RY) );
-		if(PS2_AnologData(PSS_LX) == 0)
-		{
-			motor_turn_left();
-		}
-		else if(PS2_AnologData(PSS_LX) == 255)
-		{
-			motor_turn_right();
-		}
-		else if(PS2_AnologData(PSS_LY) == 0)
-		{
-			motor_go_former();
-		}
-		else if(PS2_AnologData(PSS_LY) == 255)
-		{
-			motor_go_back();
-		}
-		else
-		{
-			motor_stop();
-		}
-		delay_ms(50);
-	}
-	return 0;
+    u8 key;  
+    usart_init();
+    bsp_systick_configuration();
+    printf("hello world\n");
+    PS2_Init();          //驱动端口初始化
+    PS2_SetInit();       //配配置初始化,配置“红绿灯模式”，并选择是否可以修改
+                         //开启震动模式
+    motor_io_init();
+    while(1)
+    {
+        //LED =! LED;
+        key=PS2_DataKey();
+        if(key!=0)                   //有按键按下
+        {
+            printf("  \r\n   %d  is  light  \r\n",Data[1]);//ID
+            printf("  \r\n   %d  is  pressed  \r\n",key);           
+            switch(key)
+            {
+                case 5:
+                case 13:
+                {
+                    motor_go_former();
+                    printf("go former\n");
+                }
+                    break;
+                case 7:
+                case 15:
+                {
+                    motor_go_back();
+                    printf("go back\n");
+                }
+                    break;
+                case 8:
+                {
+                    motor_turn_left();
+                    motor_go_former();
+                    printf("turn left\n");
+
+                }
+                    break;
+                case 6:
+                {
+                    motor_turn_right();
+                    motor_go_former();
+                    printf("turn right\n");
+                }
+                    break;
+                case 16:
+                {
+                    motor_turn_left();
+                    motor_go_back();
+                    printf("back left\n");
+                }
+                    break;
+                case 14:
+                {
+                    motor_turn_right();
+                    motor_go_back();
+                    printf("back right\n");
+                }
+                    break;
+            }
+        }
+        else
+        {
+            motor_stop();
+        }
+
+        delay_ms(50);
+    }
+    return 0;
 }
