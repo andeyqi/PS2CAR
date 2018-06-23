@@ -3,6 +3,7 @@
 #include "usart.h"
 #include "pstwo.h"
 #include "bsp_systick.h"
+#include "motor.h"
 
 int main(void)
 {
@@ -13,6 +14,7 @@ int main(void)
 	PS2_Init();			 //驱动端口初始化
 	PS2_SetInit();		 //配配置初始化,配置“红绿灯模式”，并选择是否可以修改
 	                     //开启震动模式
+	motor_io_init();
 	while(1)
 	{
 		//LED =! LED;
@@ -36,6 +38,26 @@ int main(void)
     	}
 		printf(" %5d %5d %5d %5d\r\n",PS2_AnologData(PSS_LX),PS2_AnologData(PSS_LY),
 		                              PS2_AnologData(PSS_RX),PS2_AnologData(PSS_RY) );
+		if(PS2_AnologData(PSS_LX) == 0)
+		{
+			motor_turn_left();
+		}
+		else if(PS2_AnologData(PSS_LX) == 255)
+		{
+			motor_turn_right();
+		}
+		else if(PS2_AnologData(PSS_LY) == 0)
+		{
+			motor_go_former();
+		}
+		else if(PS2_AnologData(PSS_LY) == 255)
+		{
+			motor_go_back();
+		}
+		else
+		{
+			motor_stop();
+		}
 		delay_ms(50);
 	}
 	return 0;

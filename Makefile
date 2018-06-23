@@ -16,7 +16,7 @@ export STRIP OBJCOPY OBJDUMP
 
 CFLAGS := -Wall -O0 -DUSE_STDPERIPH_DRIVER  -std=gnu99
 CFLAGS += -I $(shell pwd)/driver/printf -I $(shell pwd)/driver/delay -I $(shell pwd)/driver/ps2 -I $(shell pwd)/stlib -I $(shell pwd)/stlib/inc -I $(shell pwd)/stlib/cminc \
-          -I $(shell pwd)/common -I $(shell pwd)/src 
+          -I $(shell pwd)/common -I $(shell pwd)/src  -I $(shell pwd)/driver/motor
 CFLAGS += -mcpu=cortex-m4 -mthumb 
 CFLAGS += -ffunction-sections -fdata-sections
 #CFLAGS += -mfloat-abi=hard -mfpu=fpv4-sp-d16
